@@ -3,4 +3,4 @@
   - Unfortunately, I am not able to find the old source code. This exe file was accidentially discovered in my Dropbox. =))
   - A credit and sincere thanks to the club, now located at: [@clbtinhoctdn](https://www.facebook.com/clbtinhoctdn/)
   - Hope that somebody will download and enjoy the game! =))
-  - [Final Poster](final poster.jpg)
+  - ![Final Poster](https://github.com/ncduy0303/Side-projects/blob/master/Defenders%20of%20Christmas/final%20poster.jpg)
